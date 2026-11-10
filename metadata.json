@@ -1,0 +1,6 @@
+{
+  "name": "Statecraft: US Politics Simulator",
+  "description": "Realistic, open-ended political simulation game powered by AI. Play as a Senator, Governor, or President, draft legislation, handle national crises, campaign across all 50 states, and debate rivals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
